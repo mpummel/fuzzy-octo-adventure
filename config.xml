@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <widget xmlns = "http://www.w3.org/ns/widgets"
     xmlns:gap = "http://phonegap.com/ns/1.0"
-    id        = "com.phonegap.example"
+    id        = "com.phonegap.classapp"
     version   = "1.0.0">
 
-<name>PhoneGap Build Application</name>
+<name>IADT Tutoring</name>
 
 <description>
-A simple PhoneGap Build application.
+A simple Tutoring application.
 </description>
 
-<author href="https://example.com" email="you@example.com">
+<author href="https://mpummel.com" email="mpummel@gmail.com">
 Your Name
 </author>
-
+<icon src="icon.png" />
 </widget>
