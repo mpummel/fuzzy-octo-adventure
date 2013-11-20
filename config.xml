@@ -4,7 +4,11 @@
     id        = "com.phonegap.classapp"
     version   = "1.0.0">
 
+<<<<<<< HEAD
 <name>IADT Tutoring</name>
+=======
+<name>Matt test app</name>
+>>>>>>> 2ef0996a4862962b7b61c7b907d4526453a176fd
 
 <description>
 A simple Tutoring application.
